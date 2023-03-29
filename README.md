@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijaykumarchougule
-- 👀 I’m interested in Machine Learning(AI), Machince Learning, Innovation.
-- 🌱 I’m currently learning Spring Boot, AWS, Data Science, Data Engineering, MySql, Django.
-- 💞️ I’m looking to collaborate on Machine Learning Expert
+- 👀 I’m working professional.
+- 🌱 I’m currently working on Spring Boot, AWS, Kafka, MongoDb, MySql, MQ.
+- 💞️ I’m interested in new trending technology.
 - 📫 How to reach me on Whatsapp 9370501317
 
 <!---
